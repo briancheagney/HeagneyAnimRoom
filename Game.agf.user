@@ -21,7 +21,7 @@
   </Component>
   <WorkspaceState>
     <LastBuildConfiguration>Debug</LastBuildConfiguration>
-    <LastBuildGameFileName>DataFile=HeagneyAnimRoom,Windows=HeagneyAnimRoom,</LastBuildGameFileName>
+    <LastBuildGameFileName>DataFile=HeagneyAnimRoom,Windows=HeagneyAnimRoom,_Debug=HeagneyAnimRoom,</LastBuildGameFileName>
     <RequiresRebuild>False</RequiresRebuild>
   </WorkspaceState>
 </AGSEditorUserData>
