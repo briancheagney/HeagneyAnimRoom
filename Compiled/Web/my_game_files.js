@@ -1,0 +1,1 @@
+var gamefiles = ['HeagneyAnimRoom.ags', 'acsetup.cfg'];
