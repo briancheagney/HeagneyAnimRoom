@@ -3140,6 +3140,13 @@
           <Name>PlayerHasBadge</Name>
           <Type>bool</Type>
         </GlobalVariable>
+        <GlobalVariable>
+          <ArraySize>0</ArraySize>
+          <ArrayType>None</ArrayType>
+          <DefaultValue />
+          <Name>CharPos</Name>
+          <Type>Point*</Type>
+        </GlobalVariable>
       </Variables>
     </GlobalVariables>
     <Sprites>
