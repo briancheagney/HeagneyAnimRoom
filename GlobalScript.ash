@@ -4,3 +4,4 @@
 // scripts.
 
 import function WalkToObjectAndPickup(Object *obj);
+import function WalkToObjectAndJumpUp(Object *obj, int height, InventoryItem *item);
