@@ -1,0 +1,1 @@
+Game : (room:5) [room5.asc:760] Warning: ChangeCharacterView was used while the view was fixed - call ReleaseCharView first
